@@ -341,7 +341,7 @@ h6 {
   .navmenu a:focus i {
     font-size: 12px;
     line-height: 0;
-    margin-left: 5px;
+    margin-right: 6px;
     transition: 0.3s;
   }
 
@@ -990,7 +990,7 @@ section,
 --------------------------------------------------------------*/
 .about h3 {
   font-weight: 700;
-  font-size: 28px;
+  font-size: 23px;
   margin-bottom: 20px;
 }
 
@@ -1124,7 +1124,7 @@ section,
   text-align: center;
   padding: 20px;
   transition: all ease-in-out 0.3s;
-  height: 100%;
+  height: 83%;
 }
 
 .services .service-item .icon {
@@ -1365,6 +1365,25 @@ section,
 /*--------------------------------------------------------------
 # Faq Section
 --------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*0000000000000000000000000000*/
 .faq .faq-item {
   margin: 20px 0;
   padding: 20px 0;
